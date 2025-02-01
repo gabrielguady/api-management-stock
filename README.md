@@ -1,1 +1,1 @@
-# api-management-stocck
+# api-management-stock
